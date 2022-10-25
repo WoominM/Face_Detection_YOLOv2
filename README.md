@@ -10,9 +10,13 @@ CUDNN 7.6.2
 
 # 文件说明 </br>
 首先，需要把数据集和权重文件下载之后解压在同一个文件夹里。
+
 下载链接：
+
 1.网站下载：https://cloud.tsinghua.edu.cn/f/eb3bfb96b6924ac999ae/ 
+
 2.直接下载：https://cloud.tsinghua.edu.cn/f/eb3bfb96b6924ac999ae/?dl=1 
+
 
 -- ```data文件夹```：包含数据集里的图像和对应的boundingbox信息
 
