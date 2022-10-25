@@ -1,5 +1,5 @@
 # 软件环境 </br>
-操作系统：
+操作系统：</br>
 Ubuntu 16.04 </br>
 GPU：GTX TITAN X  </br>
 
