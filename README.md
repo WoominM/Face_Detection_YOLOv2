@@ -53,3 +53,7 @@ from YOLOv2 import*
 2)如果需要查看预测结果，
 输入 ```YOLOv2.prediction()``` 即可，则会自动生成3张测试集的图片以及其预测结果，其中两张是正确的，一张是错误的。
 如果想查看其他图片的预测结果，输入 ```YOLOv2.prediction(randpic=True)``` 即可，则会在测试集上随机取3张图片并进行预测。
+
+
+# 结果 </br>
+![Alt text](/fig/ex.png)
