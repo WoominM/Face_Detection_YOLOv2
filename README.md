@@ -3,7 +3,7 @@
 Ubuntu 16.04 </br>
 GPU：GTX TITAN X  </br>
 
-软件版本： 
+软件版本：  </br>
 Python 3.7.7  </br>
 Pytorch 1.3.1 </br>
 CUDA 9.0.176 </br>
