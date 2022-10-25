@@ -11,6 +11,8 @@ Pytorch 1.3.1 </br>
 CUDA 9.0.176 </br>
 CUDNN 7.6.2 </br>
 
+</br>
+
 # 文件说明 </br>
 首先，需要把数据集和权重文件下载之后解压在同一个文件夹里。
 
@@ -54,6 +56,7 @@ from YOLOv2 import*
 输入 ```YOLOv2.prediction()``` 即可，则会自动生成3张测试集的图片以及其预测结果，其中两张是正确的，一张是错误的。
 如果想查看其他图片的预测结果，输入 ```YOLOv2.prediction(randpic=True)``` 即可，则会在测试集上随机取3张图片并进行预测。
 
+</br>
 
 # 结果 </br>
 ![Alt text](/fig/ex.png)
